@@ -10,4 +10,4 @@ The goal is to size the powertrain components (e.g. engine, motor, battery) to m
 4.run "Group3_Plot.m" in Matlab to visualize the result    
 
 ## Software Requirements:
-Matlab 2013, Simulink 2013 or more recent version.
+Matlab, Simulink 2013 or the newer version.
