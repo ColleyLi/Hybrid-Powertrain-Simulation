@@ -2,7 +2,7 @@
 This project is the final project in the course AUE 817 Alterative Powertrain, which I took at Clemson Unveracity in 2014.
 
 ## Objective
-The goal of the project is to size the powertrain components (e.g. engine, motor, battery) to meet the fuel economy and performance target for an SUV and verify it in Simulink model.
+The goal of the project is to size the powertrain components (e.g. engine, motor, battery) to meet the fuel economy and performance target for an SUV and verify it in the Simulink model.
 
 ## Usage 
 1.Put all the file in the root directory   
